@@ -1,0 +1,6 @@
+{
+  "name": "Shariful Islam",
+  "description": "Modern responsive link hub for Shariful Islam showcasing official social media links for Facebook, YouTube, TikTok, Instagram, and Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
